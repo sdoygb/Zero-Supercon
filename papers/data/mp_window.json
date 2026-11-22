@@ -1,0 +1,93 @@
+{
+ "n": 7678,
+ "w_min_for_300K": 1091.0,
+ "n_above_wmin": 15,
+ "max_w": 2240.9,
+ "max_l_above_wmin": 0.2702,
+ "n_inside": 0,
+ "closest": [
+  {
+   "formula": "C",
+   "w": 1336.5,
+   "lam": 0.259,
+   "lam_req": 6.15,
+   "ratio": 0.042
+  },
+  {
+   "formula": "C",
+   "w": 1335.4,
+   "lam": 0.259,
+   "lam_req": 6.18,
+   "ratio": 0.042
+  },
+  {
+   "formula": "C",
+   "w": 1335.1,
+   "lam": 0.259,
+   "lam_req": 6.18,
+   "ratio": 0.042
+  },
+  {
+   "formula": "CHN",
+   "w": 1377.5,
+   "lam": 0.181,
+   "lam_req": 5.37,
+   "ratio": 0.034
+  },
+  {
+   "formula": "CN",
+   "w": 1245.2,
+   "lam": 0.256,
+   "lam_req": 9.39,
+   "ratio": 0.027
+  },
+  {
+   "formula": "CN",
+   "w": 1183.4,
+   "lam": 0.251,
+   "lam_req": 15.2,
+   "ratio": 0.016
+  },
+  {
+   "formula": "BiCCaO",
+   "w": 2240.9,
+   "lam": 0.028,
+   "lam_req": 1.81,
+   "ratio": 0.015
+  },
+  {
+   "formula": "HO",
+   "w": 1178.5,
+   "lam": 0.132,
+   "lam_req": 16.01,
+   "ratio": 0.008
+  }
+ ],
+ "pareto": [
+  {
+   "lam_ge": 0.2,
+   "n": 5269,
+   "w_max": 1336.5
+  },
+  {
+   "lam_ge": 0.5,
+   "n": 662,
+   "w_max": 335.3
+  },
+  {
+   "lam_ge": 1.0,
+   "n": 23,
+   "w_max": 195.9
+  },
+  {
+   "lam_ge": 2.0,
+   "n": 8,
+   "w_max": 26.2
+  },
+  {
+   "lam_ge": 5.0,
+   "n": 6,
+   "w_max": 20.9
+  }
+ ]
+}

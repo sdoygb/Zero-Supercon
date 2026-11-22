@@ -1,0 +1,80 @@
+{
+ "point_group": "C4v (C(001)/M(001))",
+ "parity_op": "M_z",
+ "orbitals": [
+  {
+   "orb": "s",
+   "parity_Mz": 1
+  },
+  {
+   "orb": "pz",
+   "parity_Mz": -1
+  },
+  {
+   "orb": "px",
+   "parity_Mz": 1
+  },
+  {
+   "orb": "py",
+   "parity_Mz": 1
+  },
+  {
+   "orb": "dz2",
+   "parity_Mz": 1
+  },
+  {
+   "orb": "dxz",
+   "parity_Mz": -1
+  },
+  {
+   "orb": "dyz",
+   "parity_Mz": -1
+  },
+  {
+   "orb": "dxy",
+   "parity_Mz": 1
+  },
+  {
+   "orb": "dx2y2",
+   "parity_Mz": 1
+  }
+ ],
+ "bonds": [
+  {
+   "C": "s",
+   "M": "dz2",
+   "type": "σ",
+   "pair_parity": 1
+  },
+  {
+   "C": "pz",
+   "M": "dz2",
+   "type": "σ",
+   "pair_parity": -1
+  },
+  {
+   "C": "px",
+   "M": "dxz",
+   "type": "π",
+   "pair_parity": -1
+  },
+  {
+   "C": "py",
+   "M": "dyz",
+   "type": "π",
+   "pair_parity": -1
+  }
+ ],
+ "sp3": {
+  "c_s": 0.5,
+  "c_pz": 0.866,
+  "w_s": 0.25,
+  "w_pz": 0.75
+ },
+ "CM_channel": {
+  "sigma_pair_even_weight": 0.25,
+  "sigma_pair_odd_weight": 0.75,
+  "reading": "C 侧 sp³ 悬挂键 × M 侧 dz²：偶分量 25%、奇分量 75%"
+ },
+ "criterion": "全 gap（宇称为零）要求偶分量为支配项：w_A1 > 1/2；C–M 的自然界面给 1/4，差一半——要 s 主导的界面键或重构"
+}

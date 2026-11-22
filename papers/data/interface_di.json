@@ -1,0 +1,76 @@
+{
+ "R_CW_A": 2.07,
+ "kappa_C": 3.07,
+ "kappa_W": 2.32,
+ "kappa_CW": 2.7,
+ "n_overlap": 4.58,
+ "n_harrison": [
+  3,
+  4
+ ],
+ "t_CW_CC_calib": 0.791,
+ "t_CW_WW_calib": 2.901,
+ "t_CW_harrison": {
+  "1.0": 1.778,
+  "1.84": 3.272,
+  "2.5": 4.446
+ },
+ "n_hom_check": {
+  "C-C_overlap": 3.73,
+  "C-C_empirical": 4,
+  "W-W_overlap": 5.37,
+  "W-W_empirical": 5
+ },
+ "t_CW_geo": 1.934,
+ "D_I_geo": 8.9,
+ "t_range": [
+  0.79,
+  4.45
+ ],
+ "n_range": [
+  3,
+  4.58
+ ],
+ "D_I_range": [
+  2.4,
+  20.4
+ ],
+ "slab": [
+  {
+   "D_I": 3.5,
+   "lam": 2.03,
+   "wlog_K": 1049.0,
+   "Tc_AD": 153.0,
+   "Tc_full": 182.0
+  },
+  {
+   "D_I": 5.0,
+   "lam": 4.15,
+   "wlog_K": 1049.0,
+   "Tc_AD": 213.0,
+   "Tc_full": 309.0
+  },
+  {
+   "D_I": 7.0,
+   "lam": 8.14,
+   "wlog_K": 1049.0,
+   "Tc_AD": 248.0,
+   "Tc_full": 464.0
+  },
+  {
+   "D_I": 9.0,
+   "lam": 13.45,
+   "wlog_K": 1049.0,
+   "Tc_AD": 263.0,
+   "Tc_full": 615.0
+  },
+  {
+   "D_I": 10.0,
+   "lam": 16.61,
+   "wlog_K": 1049.0,
+   "Tc_AD": 268.0,
+   "Tc_full": 689.0
+  }
+ ],
+ "chain": "kappa -> t(R)=A R^-1 e^-kR -> n=kR-1 -> D_I=n t_I -> slab Tc"
+}

@@ -1,0 +1,125 @@
+{
+ "wmin": 1091.0,
+ "rows": [
+  {
+   "f": "CHN",
+   "w": 1377.5,
+   "w_min": 1377.5,
+   "lam": 0.1808,
+   "src": "MP",
+   "pass": true
+  },
+  {
+   "f": "C",
+   "w": 1336.5,
+   "w_min": 1095.1,
+   "lam": 0.2589,
+   "src": "MP",
+   "pass": true
+  },
+  {
+   "f": "CN",
+   "w": 1245.2,
+   "w_min": 967.9,
+   "lam": 0.2562,
+   "src": "MP",
+   "pass": true
+  },
+  {
+   "f": "BC",
+   "w": 986.2,
+   "w_min": 986.2,
+   "lam": 0.2598,
+   "src": "MP",
+   "pass": false
+  },
+  {
+   "f": "BN",
+   "w": 966.7,
+   "w_min": 598.6,
+   "lam": 0.2185,
+   "src": "MP",
+   "pass": false
+  },
+  {
+   "f": "B2CN",
+   "w": 912.4,
+   "w_min": 912.4,
+   "lam": 0.5552,
+   "src": "JARVIS",
+   "pass": false
+  },
+  {
+   "f": "CTi",
+   "w": 713.0,
+   "w_min": 446.1,
+   "lam": 0.3436,
+   "src": "JARVIS",
+   "pass": false
+  },
+  {
+   "f": "CSc",
+   "w": 711.2,
+   "w_min": 206.0,
+   "lam": 0.2494,
+   "src": "MP",
+   "pass": false
+  },
+  {
+   "f": "NV",
+   "w": 638.4,
+   "w_min": 21.3,
+   "lam": 0.1014,
+   "src": "JARVIS",
+   "pass": false
+  },
+  {
+   "f": "NNb",
+   "w": 572.4,
+   "w_min": 62.2,
+   "lam": 0.1081,
+   "src": "JARVIS",
+   "pass": false
+  },
+  {
+   "f": "CZr",
+   "w": 570.7,
+   "w_min": 570.7,
+   "lam": 0.3031,
+   "src": "JARVIS",
+   "pass": false
+  },
+  {
+   "f": "CMo",
+   "w": 560.3,
+   "w_min": 560.3,
+   "lam": 0.196,
+   "src": "JARVIS",
+   "pass": false
+  },
+  {
+   "f": "NTi",
+   "w": 484.9,
+   "w_min": 19.0,
+   "lam": 0.3611,
+   "src": "JARVIS",
+   "pass": false
+  },
+  {
+   "f": "HfN",
+   "w": 411.1,
+   "w_min": 281.5,
+   "lam": 0.2355,
+   "src": "MP",
+   "pass": false
+  },
+  {
+   "f": "MoN",
+   "w": 307.3,
+   "w_min": 27.6,
+   "lam": 1.3665,
+   "src": "JARVIS",
+   "pass": false
+  }
+ ]
+}

@@ -1,0 +1,125 @@
+{
+ "mu_star": 0.12,
+ "rows": [
+  {
+   "kappa": 2.0,
+   "D_I": 5.0,
+   "n_modes": 400,
+   "lam_modes": 4.644,
+   "lam_a2f": 4.66,
+   "wlog_modes_K": 996.5,
+   "wlog_a2f_K": 990.4,
+   "Tc_AD": 208.0,
+   "Tc_full": 314.4,
+   "ratio": 1.512
+  },
+  {
+   "kappa": 2.0,
+   "D_I": 10.0,
+   "n_modes": 400,
+   "lam_modes": 18.576,
+   "lam_a2f": 18.641,
+   "wlog_modes_K": 996.5,
+   "wlog_a2f_K": 990.4,
+   "Tc_AD": 254.9,
+   "Tc_full": 691.6,
+   "ratio": 2.713
+  },
+  {
+   "kappa": 3.0,
+   "D_I": 5.0,
+   "n_modes": 400,
+   "lam_modes": 4.137,
+   "lam_a2f": 4.151,
+   "wlog_modes_K": 1055.6,
+   "wlog_a2f_K": 1049.2,
+   "Tc_AD": 213.0,
+   "Tc_full": 308.8,
+   "ratio": 1.45
+  },
+  {
+   "kappa": 3.0,
+   "D_I": 10.0,
+   "n_modes": 400,
+   "lam_modes": 16.547,
+   "lam_a2f": 16.605,
+   "wlog_modes_K": 1055.6,
+   "wlog_a2f_K": 1049.2,
+   "Tc_AD": 267.8,
+   "Tc_full": 688.5,
+   "ratio": 2.571
+  },
+  {
+   "kappa": 5.0,
+   "D_I": 5.0,
+   "n_modes": 400,
+   "lam_modes": 3.705,
+   "lam_a2f": 3.723,
+   "wlog_modes_K": 1090.1,
+   "wlog_a2f_K": 1080.9,
+   "Tc_AD": 211.7,
+   "Tc_full": 299.3,
+   "ratio": 1.414
+  },
+  {
+   "kappa": 5.0,
+   "D_I": 10.0,
+   "n_modes": 400,
+   "lam_modes": 14.819,
+   "lam_a2f": 14.891,
+   "wlog_modes_K": 1090.1,
+   "wlog_a2f_K": 1080.9,
+   "Tc_AD": 273.5,
+   "Tc_full": 682.3,
+   "ratio": 2.494
+  },
+  {
+   "kappa": 8.0,
+   "D_I": 5.0,
+   "n_modes": 400,
+   "lam_modes": 3.451,
+   "lam_a2f": 3.477,
+   "wlog_modes_K": 1091.9,
+   "wlog_a2f_K": 1077.2,
+   "Tc_AD": 205.8,
+   "Tc_full": 288.2,
+   "ratio": 1.4
+  },
+  {
+   "kappa": 8.0,
+   "D_I": 10.0,
+   "n_modes": 400,
+   "lam_modes": 13.806,
+   "lam_a2f": 13.909,
+   "wlog_modes_K": 1091.9,
+   "wlog_a2f_K": 1077.2,
+   "Tc_AD": 271.0,
+   "Tc_full": 674.6,
+   "ratio": 2.489
+  },
+  {
+   "kappa": 12.0,
+   "D_I": 5.0,
+   "n_modes": 400,
+   "lam_modes": 3.307,
+   "lam_a2f": 3.346,
+   "wlog_modes_K": 1080.7,
+   "wlog_a2f_K": 1057.2,
+   "Tc_AD": 199.0,
+   "Tc_full": 277.9,
+   "ratio": 1.396
+  },
+  {
+   "kappa": 12.0,
+   "D_I": 10.0,
+   "n_modes": 400,
+   "lam_modes": 13.23,
+   "lam_a2f": 13.384,
+   "wlog_modes_K": 1080.7,
+   "wlog_a2f_K": 1057.2,
+   "Tc_AD": 265.0,
+   "Tc_full": 665.3,
+   "ratio": 2.51
+  }
+ ]
+}

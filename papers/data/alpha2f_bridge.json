@@ -1,0 +1,33 @@
+{
+ "morse": {
+  "a_per_A": 2.3318,
+  "Phi_N_per_m": 627.206,
+  "omega_cm-1": 1332.0,
+  "D_b_eV": 3.6
+ },
+ "diatomic": {
+  "acoustic_min": 0.0003,
+  "acoustic_max": 1.0,
+  "optical_min": 1.4142,
+  "optical_max": 1.7321,
+  "gap": 0.4142,
+  "wlog": 0.8414
+ },
+ "deform": {
+  "D_eV": 5.775,
+  "u0_A": 0.0325,
+  "g_bond_eV": 0.0625,
+  "g_at_R0_eV": 0.1218,
+  "g_kF_eV": 0.1934,
+  "g_no_length_factor": 0.1875
+ },
+ "lambda": {
+  "q=1/a": 0.7615,
+  "q=kF": 7.2878,
+  "C_gL1_times_(D/t)^2": 7.2878
+ },
+ "ratios": {
+  "kappa2": 9.5708,
+  "g_kF_over_g_bond": 3.094
+ }
+}

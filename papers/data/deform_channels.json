@@ -1,0 +1,163 @@
+{
+ "identity": {
+  "claim": "d eps/d(da/a) = -n eps",
+  "max_err": 2.3162982643043506e-10
+ },
+ "filling_factor": [
+  {
+   "n_e": 0.2,
+   "epsF_over_t": -3.2441,
+   "Xi_FS_over_Xi_edge": -0.5407,
+   "lam_ratio_hopping": 0.29233
+  },
+  {
+   "n_e": 0.4,
+   "epsF_over_t": -2.1052,
+   "Xi_FS_over_Xi_edge": -0.3509,
+   "lam_ratio_hopping": 0.12311
+  },
+  {
+   "n_e": 0.6,
+   "epsF_over_t": -1.4,
+   "Xi_FS_over_Xi_edge": -0.2333,
+   "lam_ratio_hopping": 0.05445
+  },
+  {
+   "n_e": 0.8,
+   "epsF_over_t": -0.7019,
+   "Xi_FS_over_Xi_edge": -0.117,
+   "lam_ratio_hopping": 0.01368
+  },
+  {
+   "n_e": 1.0,
+   "epsF_over_t": -0.0014,
+   "Xi_FS_over_Xi_edge": -0.0002,
+   "lam_ratio_hopping": 0.0
+  },
+  {
+   "n_e": 1.2,
+   "epsF_over_t": 0.699,
+   "Xi_FS_over_Xi_edge": 0.1165,
+   "lam_ratio_hopping": 0.01357
+  },
+  {
+   "n_e": 1.4,
+   "epsF_over_t": 1.3971,
+   "Xi_FS_over_Xi_edge": 0.2329,
+   "lam_ratio_hopping": 0.05422
+  },
+  {
+   "n_e": 1.6,
+   "epsF_over_t": 2.1023,
+   "Xi_FS_over_Xi_edge": 0.3504,
+   "lam_ratio_hopping": 0.12277
+  },
+  {
+   "n_e": 1.8,
+   "epsF_over_t": 3.2411,
+   "Xi_FS_over_Xi_edge": 0.5402,
+   "lam_ratio_hopping": 0.2918
+  }
+ ],
+ "materials": [
+  {
+   "material": "金刚石 C",
+   "lam": 0.2589,
+   "t_bare_eV": 2.866,
+   "n_H": 2,
+   "n_eff": 0.435,
+   "epsF_over_t_if_hopping": 0.218,
+   "n_e_if_hopping": 1.062,
+   "lam_ratio": 0.0474,
+   "e2_over_a_eV": 4.04,
+   "e2a_over_t": 1.41,
+   "c_diag": 0.309
+  },
+  {
+   "material": "Si",
+   "lam": 0.209,
+   "t_bare_eV": 1.236,
+   "n_H": 2,
+   "n_eff": 0.391,
+   "epsF_over_t_if_hopping": 0.196,
+   "n_e_if_hopping": 1.056,
+   "lam_ratio": 0.0383,
+   "e2_over_a_eV": 2.65,
+   "e2a_over_t": 2.14,
+   "c_diag": 0.182
+  },
+  {
+   "material": "W",
+   "lam": 0.3367,
+   "t_bare_eV": 3.64,
+   "n_H": 5,
+   "n_eff": 0.497,
+   "epsF_over_t_if_hopping": 0.099,
+   "n_e_if_hopping": 1.028,
+   "lam_ratio": 0.0099,
+   "e2_over_a_eV": 4.55,
+   "e2a_over_t": 1.25,
+   "c_diag": 0.397
+  },
+  {
+   "material": "Ta",
+   "lam": 0.7781,
+   "t_bare_eV": 3.336,
+   "n_H": 5,
+   "n_eff": 0.755,
+   "epsF_over_t_if_hopping": 0.151,
+   "n_e_if_hopping": 1.043,
+   "lam_ratio": 0.0228,
+   "e2_over_a_eV": 4.36,
+   "e2a_over_t": 1.31,
+   "c_diag": 0.578
+  },
+  {
+   "material": "Nb",
+   "lam": 0.8604,
+   "t_bare_eV": 3.346,
+   "n_H": 5,
+   "n_eff": 0.794,
+   "epsF_over_t_if_hopping": 0.159,
+   "n_e_if_hopping": 1.045,
+   "lam_ratio": 0.0252,
+   "e2_over_a_eV": 4.36,
+   "e2a_over_t": 1.3,
+   "c_diag": 0.609
+  },
+  {
+   "material": "Mo",
+   "lam": 0.6953,
+   "t_bare_eV": 3.682,
+   "n_H": 5,
+   "n_eff": 0.714,
+   "epsF_over_t_if_hopping": 0.143,
+   "n_e_if_hopping": 1.041,
+   "lam_ratio": 0.0204,
+   "e2_over_a_eV": 4.58,
+   "e2a_over_t": 1.24,
+   "c_diag": 0.574
+  },
+  {
+   "material": "Cu",
+   "lam": 0.1584,
+   "t_bare_eV": 2.79,
+   "n_H": 2,
+   "n_eff": 0.341,
+   "epsF_over_t_if_hopping": 0.17,
+   "n_e_if_hopping": 1.049,
+   "lam_ratio": 0.029,
+   "e2_over_a_eV": 3.98,
+   "e2a_over_t": 1.43,
+   "c_diag": 0.239
+  }
+ ],
+ "cu": {
+  "note": "Cu 的 s 带半满：eps_F=0 -> hopping 通道为零；MP 表 lambda=0.158 只能来自对角项",
+  "lam_MP": 0.1584,
+  "D_d_implied_eV": 0.95,
+  "D_hop_eV": 5.58
+ },
+ "reading": "纯 hopping 图景要求 eps_F/t = n_eff/n_H = 0.10-0.22，即填充 1.03-1.06；七个材料横跨 sp/d，这个巧合不可信 -> 数据要求对角通道",
+ "diagonal_scale": "Xi_d ~ c e^2/a (Zb042); c=n_eff/(e2a/t)=0.18-0.61"
+}

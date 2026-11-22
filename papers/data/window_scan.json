@@ -1,0 +1,165 @@
+{
+ "boost": 1.45,
+ "wlog_req_ad": 1071,
+ "wlog_req_opt": 739,
+ "JARVIS": {
+  "n": 1051,
+  "n_pass_300": 0,
+  "max_Tc_AD": 33.0,
+  "max_Tc_corr": 40.2,
+  "max_wlog": 912.4,
+  "max_wlog_formula": "B2CN",
+  "top10": [
+   {
+    "id": "CV",
+    "lam": 2.325,
+    "wlog": 172.6,
+    "Tc_AD": 27.7,
+    "Tc_corr": 40.2
+   },
+   {
+    "id": "CF2Si",
+    "lam": 1.572,
+    "wlog": 216.9,
+    "Tc_AD": 25.6,
+    "Tc_corr": 37.1
+   },
+   {
+    "id": "MoN",
+    "lam": 1.367,
+    "wlog": 307.3,
+    "Tc_AD": 33.0,
+    "Tc_corr": 33.0
+   },
+   {
+    "id": "CH",
+    "lam": 2.627,
+    "wlog": 124.5,
+    "Tc_AD": 20.4,
+    "Tc_corr": 29.6
+   },
+   {
+    "id": "B2Mg",
+    "lam": 0.696,
+    "wlog": 846.3,
+    "Tc_AD": 29.3,
+    "Tc_corr": 29.3
+   },
+   {
+    "id": "B2Mg",
+    "lam": 0.696,
+    "wlog": 846.5,
+    "Tc_AD": 29.3,
+    "Tc_corr": 29.3
+   },
+   {
+    "id": "RuV",
+    "lam": 2.047,
+    "wlog": 134.3,
+    "Tc_AD": 20.1,
+    "Tc_corr": 29.1
+   },
+   {
+    "id": "B2Ca",
+    "lam": 0.868,
+    "wlog": 511.7,
+    "Tc_AD": 28.1,
+    "Tc_corr": 28.1
+   },
+   {
+    "id": "AsHO",
+    "lam": 2.172,
+    "wlog": 127.3,
+    "Tc_AD": 19.3,
+    "Tc_corr": 27.9
+   },
+   {
+    "id": "NZr",
+    "lam": 0.955,
+    "wlog": 423.2,
+    "Tc_AD": 27.5,
+    "Tc_corr": 27.5
+   }
+  ]
+ },
+ "MP": {
+  "n": 7678,
+  "n_pass_300": 0,
+  "max_Tc_AD": 14.3,
+  "max_Tc_corr": 14.3,
+  "max_wlog": 2240.9,
+  "max_wlog_formula": "BiCCaO",
+  "top10": [
+   {
+    "id": "HMo",
+    "lam": 1.03,
+    "wlog": 195.9,
+    "Tc_AD": 14.3,
+    "Tc_corr": 14.3
+   },
+   {
+    "id": "V",
+    "lam": 0.803,
+    "wlog": 225.6,
+    "Tc_AD": 10.6,
+    "Tc_corr": 10.6
+   },
+   {
+    "id": "BTh",
+    "lam": 1.239,
+    "wlog": 112.6,
+    "Tc_AD": 10.5,
+    "Tc_corr": 10.5
+   },
+   {
+    "id": "CrNb",
+    "lam": 0.927,
+    "wlog": 163.9,
+    "Tc_AD": 10.1,
+    "Tc_corr": 10.1
+   },
+   {
+    "id": "MoTc",
+    "lam": 0.862,
+    "wlog": 185.8,
+    "Tc_AD": 10.1,
+    "Tc_corr": 10.1
+   },
+   {
+    "id": "MoTc",
+    "lam": 0.83,
+    "wlog": 189.4,
+    "Tc_AD": 9.6,
+    "Tc_corr": 9.6
+   },
+   {
+    "id": "Mo",
+    "lam": 0.791,
+    "wlog": 207.7,
+    "Tc_AD": 9.5,
+    "Tc_corr": 9.5
+   },
+   {
+    "id": "Nb",
+    "lam": 0.86,
+    "wlog": 175.4,
+    "Tc_AD": 9.5,
+    "Tc_corr": 9.5
+   },
+   {
+    "id": "Mn",
+    "lam": 0.713,
+    "wlog": 257.3,
+    "Tc_AD": 9.3,
+    "Tc_corr": 9.3
+   },
+   {
+    "id": "OTh",
+    "lam": 1.286,
+    "wlog": 89.7,
+    "Tc_AD": 8.7,
+    "Tc_corr": 8.7
+   }
+  ]
+ }
+}

@@ -1,0 +1,38 @@
+{
+ "kT_eV": 0.025851999,
+ "rows": [
+  {
+   "tau_op": "1 s",
+   "Ea_min_eV": 0.815
+  },
+  {
+   "tau_op": "1 day",
+   "Ea_min_eV": 1.108
+  },
+  {
+   "tau_op": "1 yr",
+   "Ea_min_eV": 1.261
+  },
+  {
+   "tau_op": "100 yr",
+   "Ea_min_eV": 1.38
+  }
+ ],
+ "omega_scan": [
+  {
+   "omega_max_eV": 0.1,
+   "tau0_s": 4.1356676966040035e-14,
+   "Ea_min_1yr_eV": 1.243
+  },
+  {
+   "omega_max_eV": 0.2,
+   "tau0_s": 2.0678338483020018e-14,
+   "Ea_min_1yr_eV": 1.261
+  },
+  {
+   "omega_max_eV": 0.4,
+   "tau0_s": 1.0339169241510009e-14,
+   "Ea_min_1yr_eV": 1.279
+  }
+ ]
+}

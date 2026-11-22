@@ -1,0 +1,60 @@
+{
+ "cases": [
+  {
+   "case": "体相 FeSe",
+   "Tc_obs": 8.0,
+   "omega_K": 250.0,
+   "mu_star": 0.12,
+   "lambda_req": 0.724
+  },
+  {
+   "case": "体相 FeSe",
+   "Tc_obs": 8.0,
+   "omega_K": 250.0,
+   "mu_star": 0.2,
+   "lambda_req": 0.932
+  },
+  {
+   "case": "单层 FeSe/STO",
+   "Tc_obs": 65.0,
+   "omega_K": 1045.0,
+   "mu_star": 0.12,
+   "lambda_req": 0.992
+  },
+  {
+   "case": "单层 FeSe/STO",
+   "Tc_obs": 65.0,
+   "omega_K": 1045.0,
+   "mu_star": 0.2,
+   "lambda_req": 1.264
+  },
+  {
+   "case": "单层 FeSe/STO（109 K 报道）",
+   "Tc_obs": 109.0,
+   "omega_K": 1045.0,
+   "mu_star": 0.12,
+   "lambda_req": 1.459
+  },
+  {
+   "case": "单层 FeSe/STO（109 K 报道）",
+   "Tc_obs": 109.0,
+   "omega_K": 1045.0,
+   "mu_star": 0.2,
+   "lambda_req": 1.865
+  }
+ ],
+ "ag_go": {
+  "D_I": 8.6726,
+  "K": 0.166,
+  "omega_K": 1021.0,
+  "lambda_E7": 1.338,
+  "lambda_E55": 1.703
+ },
+ "FeO_short_range": {
+  "R0": 1.92,
+  "n_I": 5.546,
+  "D_I_eV": 5.96,
+  "N_B_Fe": 2.52,
+  "lambda": 14.9
+ }
+}

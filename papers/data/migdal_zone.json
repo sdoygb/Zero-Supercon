@@ -1,0 +1,46 @@
+{
+ "criterion": "Gamma = omega_D/eps_F; vertex ~ Gamma; one-loop needs Gamma<<1",
+ "rows": [
+  {
+   "class": "金刚石（C）",
+   "omega_eV": 0.165,
+   "epsF_eV": 10.0,
+   "Gamma": 0.017,
+   "band": "单圈够",
+   "note": "光支 1332 cm⁻¹；宽 sp 带"
+  },
+  {
+   "class": "H$_3$S",
+   "omega_eV": 0.15,
+   "epsF_eV": 7.0,
+   "Gamma": 0.021,
+   "band": "单圈够",
+   "note": "高压氢化物"
+  },
+  {
+   "class": "MgB$_2$",
+   "omega_eV": 0.08,
+   "epsF_eV": 1.5,
+   "Gamma": 0.053,
+   "band": "单圈够",
+   "note": "E$_{2g}$ 模"
+  },
+  {
+   "class": "平带材料",
+   "omega_eV": 0.1,
+   "epsF_eV": 0.5,
+   "Gamma": 0.2,
+   "band": "失效区",
+   "note": "窄带/平带"
+  },
+  {
+   "class": "分子晶体",
+   "omega_eV": 0.08,
+   "epsF_eV": 0.3,
+   "Gamma": 0.267,
+   "band": "失效区",
+   "note": "窄带"
+  }
+ ],
+ "reading": "轻网络 Gamma=0.017-0.053；窄带/平带 Gamma=0.20-0.27"
+}

@@ -1,0 +1,645 @@
+{
+ "exp74": {
+  "n": 72,
+  "median": 0.0949,
+  "q25": 0.0106,
+  "q75": 0.1909,
+  "min": -7.4446,
+  "max": 0.5722,
+  "in_0.077_0.113": 0.181
+ },
+ "db_control": {
+  "n": 74,
+  "median": 0.085,
+  "q25": 0.085,
+  "q75": 0.085,
+  "min": 0.0821,
+  "max": 0.0861,
+  "in_0.077_0.113": 1.0
+ },
+ "exp_rows": [
+  {
+   "jid": "JVASP-816",
+   "formula": "Al",
+   "lam": 0.3928,
+   "wlog": 298.1,
+   "Tc_exp": 1.1771500000000001,
+   "mustar": 0.0982
+  },
+  {
+   "jid": "JVASP-17183",
+   "formula": "AlBaSi",
+   "lam": 0.6889,
+   "wlog": 126.5,
+   "Tc_exp": 2.8,
+   "mustar": 0.1435
+  },
+  {
+   "jid": "JVASP-17215",
+   "formula": "AlGeSr",
+   "lam": 6.3461,
+   "wlog": 9.6,
+   "Tc_exp": 6.7,
+   "mustar": -7.4446
+  },
+  {
+   "jid": "JVASP-14884",
+   "formula": "AlMo3",
+   "lam": 0.3386,
+   "wlog": 296.3,
+   "Tc_exp": 0.58,
+   "mustar": 0.0898
+  },
+  {
+   "jid": "JVASP-15451",
+   "formula": "AlNbNi2",
+   "lam": 0.7237,
+   "wlog": 156.2,
+   "Tc_exp": 2.15,
+   "mustar": 0.198
+  },
+  {
+   "jid": "JVASP-11981",
+   "formula": "AlNb3",
+   "lam": 3.6413,
+   "wlog": 45.1,
+   "Tc_exp": 18.15,
+   "mustar": -0.9179
+  },
+  {
+   "jid": "JVASP-19875",
+   "formula": "AlOs",
+   "lam": 0.5475,
+   "wlog": 176.4,
+   "Tc_exp": 0.39,
+   "mustar": 0.2062
+  },
+  {
+   "jid": "JVASP-15255",
+   "formula": "AlSiSr",
+   "lam": 0.6361,
+   "wlog": 148.9,
+   "Tc_exp": 4.85,
+   "mustar": 0.0798
+  },
+  {
+   "jid": "JVASP-14667",
+   "formula": "BHf",
+   "lam": 0.401,
+   "wlog": 352.7,
+   "Tc_exp": 3.1,
+   "mustar": 0.0648
+  },
+  {
+   "jid": "JVASP-37096",
+   "formula": "BMo",
+   "lam": 0.5198,
+   "wlog": 352.5,
+   "Tc_exp": 0.5,
+   "mustar": 0.2056
+  },
+  {
+   "jid": "JVASP-129329",
+   "formula": "BNb",
+   "lam": 4.6714,
+   "wlog": 64.6,
+   "Tc_exp": 8.25,
+   "mustar": 0.3919
+  },
+  {
+   "jid": "JVASP-14727",
+   "formula": "BZr",
+   "lam": 0.4383,
+   "wlog": 412.7,
+   "Tc_exp": 3.0999999999999996,
+   "mustar": 0.0949
+  },
+  {
+   "jid": "JVASP-19821",
+   "formula": "B2Mg",
+   "lam": 0.6959,
+   "wlog": 846.3,
+   "Tc_exp": 38.55,
+   "mustar": 0.0622
+  },
+  {
+   "jid": "JVASP-14726",
+   "formula": "B2Nb",
+   "lam": 0.7002,
+   "wlog": 353.0,
+   "Tc_exp": 5.395,
+   "mustar": 0.1799
+  },
+  {
+   "jid": "JVASP-20068",
+   "formula": "B2Ru",
+   "lam": 0.3731,
+   "wlog": 370.7,
+   "Tc_exp": 1.55,
+   "mustar": 0.084
+  },
+  {
+   "jid": "JVASP-20082",
+   "formula": "B2Ta",
+   "lam": 0.8841,
+   "wlog": 278.8,
+   "Tc_exp": 9.5,
+   "mustar": 0.1752
+  },
+  {
+   "jid": "JVASP-20620",
+   "formula": "B6Y",
+   "lam": 0.6454,
+   "wlog": 159.2,
+   "Tc_exp": 6.699999999999999,
+   "mustar": 0.0516
+  },
+  {
+   "jid": "JVASP-20554",
+   "formula": "Be2Nb",
+   "lam": 0.4657,
+   "wlog": 325.3,
+   "Tc_exp": 2.15,
+   "mustar": 0.1168
+  },
+  {
+   "jid": "JVASP-16218",
+   "formula": "CGeTi2",
+   "lam": 0.2963,
+   "wlog": 283.1,
+   "Tc_exp": 9.5,
+   "mustar": -0.1042
+  },
+  {
+   "jid": "JVASP-97358",
+   "formula": "CIY",
+   "lam": 0.8977,
+   "wlog": 102.5,
+   "Tc_exp": 9.97,
+   "mustar": -0.0136
+  },
+  {
+   "jid": "JVASP-17669",
+   "formula": "CInTi2",
+   "lam": 0.2601,
+   "wlog": 254.2,
+   "Tc_exp": 3.1,
+   "mustar": -0.0432
+  },
+  {
+   "jid": "JVASP-19889",
+   "formula": "CNb",
+   "lam": 0.7927,
+   "wlog": 338.4,
+   "Tc_exp": 10.55,
+   "mustar": 0.151
+  },
+  {
+   "jid": "JVASP-14496",
+   "formula": "CNb2",
+   "lam": 0.3361,
+   "wlog": 293.8,
+   "Tc_exp": 9.1,
+   "mustar": -0.0711
+  },
+  {
+   "jid": "JVASP-36405",
+   "formula": "CTa",
+   "lam": 0.8884,
+   "wlog": 259.1,
+   "Tc_exp": 10.16,
+   "mustar": 0.1585
+  },
+  {
+   "jid": "JVASP-16869",
+   "formula": "CaSi2",
+   "lam": 1.2676,
+   "wlog": 99.6,
+   "Tc_exp": 1.51,
+   "mustar": 0.3802
+  },
+  {
+   "jid": "JVASP-14525",
+   "formula": "CoSi2",
+   "lam": 0.328,
+   "wlog": 342.3,
+   "Tc_exp": 1.3,
+   "mustar": 0.0597
+  },
+  {
+   "jid": "JVASP-78338",
+   "formula": "Cr",
+   "lam": 0.4494,
+   "wlog": 355.7,
+   "Tc_exp": 3.1,
+   "mustar": 0.093
+  },
+  {
+   "jid": "JVASP-19777",
+   "formula": "Cr3Ir",
+   "lam": 1.5334,
+   "wlog": 111.5,
+   "Tc_exp": 0.168,
+   "mustar": 0.5722
+  },
+  {
+   "jid": "JVASP-14524",
+   "formula": "GaMo3",
+   "lam": 0.4083,
+   "wlog": 271.0,
+   "Tc_exp": 0.76,
+   "mustar": 0.1206
+  },
+  {
+   "jid": "JVASP-108072",
+   "formula": "GaSiSr",
+   "lam": 3.206,
+   "wlog": 27.0,
+   "Tc_exp": 5.04,
+   "mustar": 0.0945
+  },
+  {
+   "jid": "JVASP-20237",
+   "formula": "Ga2Y",
+   "lam": 0.7668,
+   "wlog": 81.7,
+   "Tc_exp": 1.68,
+   "mustar": 0.1833
+  },
+  {
+   "jid": "JVASP-8075",
+   "formula": "GeMo3",
+   "lam": 0.451,
+   "wlog": 276.0,
+   "Tc_exp": 1.6,
+   "mustar": 0.1151
+  },
+  {
+   "jid": "JVASP-19684",
+   "formula": "GeNb3",
+   "lam": 3.5997,
+   "wlog": 43.2,
+   "Tc_exp": 6.4,
+   "mustar": 0.2569
+  },
+  {
+   "jid": "JVASP-91617",
+   "formula": "GeV3",
+   "lam": 2.1113,
+   "wlog": 100.3,
+   "Tc_exp": 6.4,
+   "mustar": 0.369
+  },
+  {
+   "jid": "JVASP-15075",
+   "formula": "HfN",
+   "lam": 0.6162,
+   "wlog": 281.5,
+   "Tc_exp": 7.715,
+   "mustar": 0.0897
+  },
+  {
+   "jid": "JVASP-16550",
+   "formula": "Hg2Na",
+   "lam": 0.6157,
+   "wlog": 57.6,
+   "Tc_exp": 1.62,
+   "mustar": 0.0867
+  },
+  {
+   "jid": "JVASP-111352",
+   "formula": "IrMo",
+   "lam": 0.4551,
+   "wlog": 227.7,
+   "Tc_exp": 5.325,
+   "mustar": 0.0246
+  },
+  {
+   "jid": "JVASP-20086",
+   "formula": "IrMo3",
+   "lam": 3.9685,
+   "wlog": 24.7,
+   "Tc_exp": 8.262,
+   "mustar": -0.489
+  },
+  {
+   "jid": "JVASP-14771",
+   "formula": "IrTi3",
+   "lam": 2.0818,
+   "wlog": 58.1,
+   "Tc_exp": 4.97,
+   "mustar": 0.2942
+  },
+  {
+   "jid": "JVASP-910",
+   "formula": "La",
+   "lam": 3.2955,
+   "wlog": 27.0,
+   "Tc_exp": 5.45,
+   "mustar": 0.0476
+  },
+  {
+   "jid": "JVASP-118591",
+   "formula": "LaN",
+   "lam": 0.2749,
+   "wlog": 168.9,
+   "Tc_exp": 1.175,
+   "mustar": -0.0018
+  },
+  {
+   "jid": "JVASP-20103",
+   "formula": "LaSe",
+   "lam": 0.3677,
+   "wlog": 116.3,
+   "Tc_exp": 1.02,
+   "mustar": 0.0451
+  },
+  {
+   "jid": "JVASP-116343",
+   "formula": "MoN",
+   "lam": 3.2085,
+   "wlog": 27.6,
+   "Tc_exp": 12.0,
+   "mustar": -1.1772
+  },
+  {
+   "jid": "JVASP-14900",
+   "formula": "MoNiP",
+   "lam": 0.3616,
+   "wlog": 272.2,
+   "Tc_exp": 15.5,
+   "mustar": -0.1357
+  },
+  {
+   "jid": "JVASP-8643",
+   "formula": "MoO2",
+   "lam": 0.7465,
+   "wlog": 172.8,
+   "Tc_exp": 12.0,
+   "mustar": 0.0106
+  },
+  {
+   "jid": "JVASP-19767",
+   "formula": "NNb",
+   "lam": 3.3558,
+   "wlog": 62.2,
+   "Tc_exp": 15.0,
+   "mustar": -0.0966
+  },
+  {
+   "jid": "JVASP-14741",
+   "formula": "NTi",
+   "lam": 0.6957,
+   "wlog": 378.7,
+   "Tc_exp": 4.86,
+   "mustar": 0.1908
+  },
+  {
+   "jid": "JVASP-19896",
+   "formula": "NV",
+   "lam": 8.1392,
+   "wlog": 21.3,
+   "Tc_exp": 8.41,
+   "mustar": -0.7584
+  },
+  {
+   "jid": "JVASP-19679",
+   "formula": "NZr",
+   "lam": 0.6035,
+   "wlog": 359.4,
+   "Tc_exp": 9.425,
+   "mustar": 0.0883
+  },
+  {
+   "jid": "JVASP-934",
+   "formula": "Nb",
+   "lam": 0.7741,
+   "wlog": 221.6,
+   "Tc_exp": 9.2,
+   "mustar": 0.1074
+  },
+  {
+   "jid": "JVASP-14492",
+   "formula": "NbO",
+   "lam": 0.4618,
+   "wlog": 322.0,
+   "Tc_exp": 1.39,
+   "mustar": 0.1344
+  },
+  {
+   "jid": "JVASP-16586",
+   "formula": "NbRh",
+   "lam": 1.0245,
+   "wlog": 135.0,
+   "Tc_exp": 3.07,
+   "mustar": 0.269
+  },
+  {
+   "jid": "JVASP-16588",
+   "formula": "NbRu3",
+   "lam": 0.7401,
+   "wlog": 209.2,
+   "Tc_exp": 13.5,
+   "mustar": 0.0224
+  },
+  {
+   "jid": "JVASP-20636",
+   "formula": "NbS",
+   "lam": 0.7181,
+   "wlog": 243.4,
+   "Tc_exp": 3.565,
+   "mustar": 0.1909
+  },
+  {
+   "jid": "JVASP-578",
+   "formula": "NbS2",
+   "lam": 0.3148,
+   "wlog": 323.5,
+   "Tc_exp": 5.0,
+   "mustar": -0.0235
+  },
+  {
+   "jid": "JVASP-20246",
+   "formula": "Nb3Os",
+   "lam": 0.5821,
+   "wlog": 190.6,
+   "Tc_exp": 0.995,
+   "mustar": 0.1894
+  },
+  {
+   "jid": "JVASP-15003",
+   "formula": "Nb3Pt",
+   "lam": 4.1598,
+   "wlog": 24.5,
+   "Tc_exp": 10.53,
+   "mustar": -1.1022
+  },
+  {
+   "jid": "JVASP-15938",
+   "formula": "Nb3Si",
+   "lam": 1.4754,
+   "wlog": 140.8,
+   "Tc_exp": 9.0,
+   "mustar": 0.2469
+  },
+  {
+   "jid": "JVASP-19668",
+   "formula": "Nb3Sn",
+   "lam": 2.9256,
+   "wlog": 34.7,
+   "Tc_exp": 17.866,
+   "mustar": -1.9735
+  },
+  {
+   "jid": "JVASP-50092",
+   "formula": "OTi",
+   "lam": 0.921,
+   "wlog": 191.8,
+   "Tc_exp": 0.71,
+   "mustar": 0.3515
+  },
+  {
+   "jid": "JVASP-961",
+   "formula": "Pb",
+   "lam": 1.1006,
+   "wlog": 63.1,
+   "Tc_exp": 7.186,
+   "mustar": 0.0018
+  },
+  {
+   "jid": "JVASP-20434",
+   "formula": "PtV3",
+   "lam": 0.8056,
+   "wlog": 196.2,
+   "Tc_exp": 3.18,
+   "mustar": 0.2194
+  },
+  {
+   "jid": "JVASP-19765",
+   "formula": "RhV3",
+   "lam": 0.4687,
+   "wlog": 302.2,
+   "Tc_exp": 0.38,
+   "mustar": 0.181
+  },
+  {
+   "jid": "JVASP-19725",
+   "formula": "SSc",
+   "lam": 0.5911,
+   "wlog": 236.1,
+   "Tc_exp": 5.37,
+   "mustar": 0.0963
+  },
+  {
+   "jid": "JVASP-20512",
+   "formula": "SZr",
+   "lam": 3.3559,
+   "wlog": 41.9,
+   "Tc_exp": 4.5,
+   "mustar": 0.3716
+  },
+  {
+   "jid": "JVASP-19755",
+   "formula": "SbV3",
+   "lam": 0.8211,
+   "wlog": 140.1,
+   "Tc_exp": 0.65,
+   "mustar": 0.3023
+  },
+  {
+   "jid": "JVASP-14810",
+   "formula": "Sc",
+   "lam": 0.383,
+   "wlog": 213.6,
+   "Tc_exp": 8.2,
+   "mustar": -0.0682
+  },
+  {
+   "jid": "JVASP-14960",
+   "formula": "SiV3",
+   "lam": 0.9922,
+   "wlog": 238.8,
+   "Tc_exp": 16.84,
+   "mustar": 0.0949
+  },
+  {
+   "jid": "JVASP-18790",
+   "formula": "SnTa3",
+   "lam": 2.7344,
+   "wlog": 30.1,
+   "Tc_exp": 6.300000000000001,
+   "mustar": -0.0284
+  },
+  {
+   "jid": "JVASP-18048",
+   "formula": "SnV3",
+   "lam": 1.7822,
+   "wlog": 54.5,
+   "Tc_exp": 3.7249999999999996,
+   "mustar": 0.297
+  },
+  {
+   "jid": "JVASP-1014",
+   "formula": "Ta",
+   "lam": 0.7572,
+   "wlog": 165.0,
+   "Tc_exp": 4.422499999999999,
+   "mustar": 0.1534
+  },
+  {
+   "jid": "JVASP-14837",
+   "formula": "V",
+   "lam": 0.9587,
+   "wlog": 260.2,
+   "Tc_exp": 5.24,
+   "mustar": 0.2581
+  }
+ ],
+ "bkt": [
+  {
+   "n_cm2": 30000000000000.0,
+   "m_star": 1.0,
+   "T_BKT_K": 104.2
+  },
+  {
+   "n_cm2": 30000000000000.0,
+   "m_star": 3.0,
+   "T_BKT_K": 34.7
+  },
+  {
+   "n_cm2": 30000000000000.0,
+   "m_star": 6.0,
+   "T_BKT_K": 17.4
+  },
+  {
+   "n_cm2": 100000000000000.0,
+   "m_star": 1.0,
+   "T_BKT_K": 347.2
+  },
+  {
+   "n_cm2": 100000000000000.0,
+   "m_star": 3.0,
+   "T_BKT_K": 115.7
+  },
+  {
+   "n_cm2": 100000000000000.0,
+   "m_star": 6.0,
+   "T_BKT_K": 57.9
+  },
+  {
+   "n_cm2": 300000000000000.0,
+   "m_star": 1.0,
+   "T_BKT_K": 1041.7
+  },
+  {
+   "n_cm2": 300000000000000.0,
+   "m_star": 3.0,
+   "T_BKT_K": 347.2
+  },
+  {
+   "n_cm2": 300000000000000.0,
+   "m_star": 6.0,
+   "T_BKT_K": 173.6
+  }
+ ]
+}
