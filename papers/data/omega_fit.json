@@ -1,0 +1,30 @@
+{
+ "rows": [
+  {
+   "net": "金刚石 sp3",
+   "nu": 4,
+   "K_I_Nm": 461,
+   "omega_exp_cm": 1332.0,
+   "omega_full_atom_cm": 1142,
+   "omega_valence_cm": 2285,
+   "mu_eff_amu": 4.41,
+   "mu_full_amu": 6.0,
+   "mu_valence_amu": 1.5,
+   "dev_full": 0.86,
+   "dev_valence": 1.72
+  },
+  {
+   "net": "sp2 石墨烯",
+   "nu": 3,
+   "K_I_Nm": 651,
+   "omega_exp_cm": 1580.0,
+   "omega_full_atom_cm": 1357,
+   "omega_valence_cm": 2351,
+   "mu_eff_amu": 4.43,
+   "mu_full_amu": 6.0,
+   "mu_valence_amu": 2.0,
+   "dev_full": 0.86,
+   "dev_valence": 1.49
+  }
+ ]
+}

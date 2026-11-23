@@ -1,0 +1,44 @@
+{
+ "CM_K": 1.4387769,
+ "rows": [
+  {
+   "net": "金刚石 sp3",
+   "D_b_eV": 3.6,
+   "a_perA": 2.0,
+   "nu": 4,
+   "K_I_Nm": 461,
+   "omega_full_atom_cm": 1142,
+   "omega_valence_cm": 2285,
+   "omega_exp_cm": 1332.0,
+   "omega_I_full_atom_K": 1225,
+   "omega_I_valence_K": 2357,
+   "mu_I_valence_amu": 2.92
+  },
+  {
+   "net": "sp2 石墨烯",
+   "D_b_eV": 4.2,
+   "a_perA": 2.2,
+   "nu": 3,
+   "K_I_Nm": 651,
+   "omega_full_atom_cm": 1357,
+   "omega_valence_cm": 2351,
+   "omega_exp_cm": 1580.0,
+   "omega_I_full_atom_K": 1456,
+   "omega_I_valence_K": 2436,
+   "mu_I_valence_amu": 3.86
+  },
+  {
+   "net": "C3N4",
+   "D_b_eV": 3.0,
+   "a_perA": 2.0,
+   "nu": 3,
+   "K_I_Nm": 385,
+   "omega_full_atom_cm": 1043,
+   "omega_valence_cm": 1806,
+   "omega_exp_cm": null,
+   "omega_I_full_atom_K": 1119,
+   "omega_I_valence_K": 1872,
+   "mu_I_valence_amu": 3.86
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "K_I_Nm": 651.0,
+ "nu": 3,
+ "rows": [
+  {
+   "mass_model": "整原子",
+   "mass_partial_amu": 12.0,
+   "mu_I_amu": 10.8,
+   "omega_I_K": 1455,
+   "Tc_AD_lam1.338": 138,
+   "Tc_AD_lam1.703": 176
+  },
+  {
+   "mass_model": "界面键份额 3/4",
+   "mass_partial_amu": 9.0,
+   "mu_I_amu": 8.31,
+   "omega_I_K": 1659,
+   "Tc_AD_lam1.338": 157,
+   "Tc_AD_lam1.703": 201
+  },
+  {
+   "mass_model": "价加权 m_C/ν",
+   "mass_partial_amu": 4.0,
+   "mu_I_amu": 3.86,
+   "omega_I_K": 2435,
+   "Tc_AD_lam1.338": 231,
+   "Tc_AD_lam1.703": 294
+  }
+ ]
+}
