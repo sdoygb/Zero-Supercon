@@ -1,0 +1,75 @@
+{
+ "N": 11,
+ "edges": 13,
+ "p_interface": 0.5579,
+ "rows": [
+  {
+   "edge": "0-1",
+   "is_interface": false,
+   "p_bond": 0.7708
+  },
+  {
+   "edge": "1-2",
+   "is_interface": false,
+   "p_bond": 0.5513
+  },
+  {
+   "edge": "2-3",
+   "is_interface": false,
+   "p_bond": 0.7708
+  },
+  {
+   "edge": "3-4",
+   "is_interface": false,
+   "p_bond": 0.4655
+  },
+  {
+   "edge": "4-5",
+   "is_interface": false,
+   "p_bond": 0.3986
+  },
+  {
+   "edge": "5-0",
+   "is_interface": false,
+   "p_bond": 0.4655
+  },
+  {
+   "edge": "4-6",
+   "is_interface": false,
+   "p_bond": 0.4655
+  },
+  {
+   "edge": "6-7",
+   "is_interface": false,
+   "p_bond": 0.7708
+  },
+  {
+   "edge": "7-8",
+   "is_interface": false,
+   "p_bond": 0.5513
+  },
+  {
+   "edge": "8-9",
+   "is_interface": false,
+   "p_bond": 0.7708
+  },
+  {
+   "edge": "9-5",
+   "is_interface": false,
+   "p_bond": 0.4655
+  },
+  {
+   "edge": "4-10",
+   "is_interface": true,
+   "p_bond": 0.5579
+  },
+  {
+   "edge": "5-10",
+   "is_interface": true,
+   "p_bond": 0.5579
+  }
+ ],
+ "D_eV": 1.919,
+ "Phi_Nm": 334,
+ "omega_cm": 1212
+}
